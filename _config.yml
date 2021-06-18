@@ -1,0 +1,14 @@
+title: "OWASP IoT Security Verification Standard (ISVS)"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+search_enabled: false
+
+footer_content: "OWASP ISVS. Distributed under the <a href=\"https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS/blob/master/License.md">CC-BY-SA 4.0 International license.</a>"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
