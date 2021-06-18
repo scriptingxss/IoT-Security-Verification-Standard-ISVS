@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: false
 
-footer_content: "OWASP ISVS. Distributed under the <a href=\"https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS/blob/master/License.md">CC-BY-SA 4.0 International license.</a>"
+footer_content: "OWASP ISVS"
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
