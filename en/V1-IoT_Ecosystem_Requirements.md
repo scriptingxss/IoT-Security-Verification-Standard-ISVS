@@ -27,6 +27,7 @@ System configuration changes must employ appropriate logging and monitoring capa
 
 
 ### Supply Chain
+
 | # | Description | L1 | L2 | L3 |
 | -- | ---------------------- | - | - | - |
 | **1.2.1** | Verify that each application (including firmware) in the ecosystem maintains a software bill of materials (SBOM) cataloging third-party components, versioning, and published vulnerabilities. | ✓ | ✓ | ✓ |
